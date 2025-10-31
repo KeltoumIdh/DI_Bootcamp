@@ -30,8 +30,8 @@ print(info)
 
 #Exercise 6: A & B
 print('**** exercise 6 ****')
-a=input('enter the first number')
-b=input('enter the second number')
+a=5
+b=3
 if a>b:
     print('hello world')
 

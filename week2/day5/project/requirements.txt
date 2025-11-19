@@ -1,0 +1,5 @@
+flask
+psycopg #to connect python with db postgresSql
+translate
+gtts #convert text into spoken audio by interfacing with the Google Text-to-Speech API.
+python-dotenv #Python library used to manage environment variables in Python applications.
